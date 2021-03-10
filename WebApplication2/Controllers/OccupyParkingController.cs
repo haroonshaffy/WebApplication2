@@ -7,6 +7,15 @@ using System.Web.Http;
 
 namespace WebApplication2.Controllers
 {
+    /* Problem Description
+You supervise a small parking lot which has N parking spaces.
+Yesterday, you recorded which parking spaces were occupied by cars and which were empty.
+Today, you recorded the same information.
+How many of the parking spaces were occupied both yesterday and today?*/
+
+
+    /// J2 PROBLEM
+    /// 
     /// <summary>
     /// Tells us how many parking slots were filled on both days
     /// </summary>
